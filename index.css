@@ -3,9 +3,9 @@ body {
   font-size: 110%;
   background-color: #383A59;
   color: white;
-  -webkit-user-select: none; /*(Chrome/Safari/Opera)*/
-  -moz-user-select: none; /*(Firefox)*/
-  -ms-user-select: none; /*(IE/Edge)*/
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
 }
 
 a,
@@ -29,5 +29,7 @@ footer {
 }
 .header {
   background-color: #282a36;
+  width: 100%;
+  position: fixed;
 }
 
