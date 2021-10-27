@@ -6,7 +6,7 @@ body {
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
-  margin: auto;
+  margin: 0;
 }
 
 a,
@@ -32,5 +32,6 @@ footer {
   background-color: #282a36;
   width: 100%;
   position: fixed;
+  margin: auto;
 }
 
