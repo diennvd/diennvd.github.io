@@ -28,13 +28,6 @@ footer {
   color: white;
   text-align: center;
 }
-.header {
-  background-color: #282a36;
-  width: 100%;
-  position: fixed;
-  margin: auto;
-  display: block;
-}
 img {
   display: block;
   margin-left: auto;
@@ -51,5 +44,7 @@ img {
   margin-bottom: auto;
   font-size: 17px;
   border: none;
-  cursor: pointer;  
+  cursor: pointer; 
+  background-color: #383A59;
+  color: white;
 }
