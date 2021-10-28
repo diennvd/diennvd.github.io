@@ -33,5 +33,6 @@ footer {
   width: 100%;
   position: fixed;
   margin: auto;
+  display: block;
 }
 
