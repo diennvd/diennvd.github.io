@@ -3,9 +3,6 @@ body {
   font-size: 110%;
   background-color: #383A59;
   color: white;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
   margin: 0;
 }
 
@@ -30,14 +27,10 @@ footer {
 }
 img {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: auto;
-  margin-bottom: auto;
+  margin: auto;
+  position: relative;
   width: 25%;
-}
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
-
+  
 .search {
   width: 100%;
   position: relative;
